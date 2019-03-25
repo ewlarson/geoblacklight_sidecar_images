@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_dependency 'carrierwave', '~> 1.2'
-  s.add_dependency 'geoblacklight', '~> 1.7'
+  s.add_dependency 'geoblacklight', '~> 2.0'
   s.add_dependency 'mini_magick', '~> 4.8'
   s.add_dependency 'rails', '>= 4.2', '< 6'
 
