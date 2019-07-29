@@ -41,7 +41,7 @@ else
   gem 'aasm'
   gem 'carrierwave'
   gem 'geoblacklight', '~> 1.7'
-  gem 'mini_magick'
+  gem "mini_magick", ">= 4.9.4"
   gem 'rails', '>= 4.2', '< 6'
 end
 # END ENGINE_CART BLOCK
